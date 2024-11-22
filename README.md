@@ -7,4 +7,10 @@
 2. Vô hiệu hóa Code Lens trong cài đặt chung
    Nhấn Ctrl+, để mở Settings.  
    Tìm kiếm từ khóa codeLens.  
-   Bỏ chọn tùy chọn Editor: Code Lens  
+   Bỏ chọn tùy chọn Editor: Code Lens
+### format code
+Windows/Linux => Phím tắt: Shift + Alt + F
+macOS => Phím tắt: Shift + Option + F
+### Di chuyển dòng lên hoặc xuống
+Alt + Mũi tên lên/xuống	
+
